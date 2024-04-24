@@ -1,4 +1,5 @@
 this is master branch
+<<<<<<< HEAD
 update master file
 <<<<<<< HEAD
 update master file from remote
@@ -6,3 +7,6 @@ update master file from remote
 =======
 >>>>>>> 0dd23f4906a3374daae976549c6f5606878017fb
 add this from local
+=======
+update master file...
+>>>>>>> 1b083a82fa7cba275ad5ebbfa83b84e3284a3500
