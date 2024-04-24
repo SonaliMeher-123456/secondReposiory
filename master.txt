@@ -1,2 +1,6 @@
 this is master branch
+<<<<<<< HEAD
 update master file
+=======
+update master file from remote
+>>>>>>> e9664fe66e54c627daf8b8cbb3529515678973df
