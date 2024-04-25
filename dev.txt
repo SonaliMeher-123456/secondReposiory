@@ -1,4 +1,8 @@
 dev file
 time 9.00pm
 01/03/1993
+<<<<<<< HEAD
 this line is being added from local for accept both changes
+=======
+this line added from remote for accept both changes
+>>>>>>> cfbbeb32a9c7fdb4cbb5d38e8cf80463840a6aa3
