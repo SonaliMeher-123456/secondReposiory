@@ -2,4 +2,4 @@ dev file
 time 9.00pm
 01/03/1993
 this line is being added from remote
-xyz
+this line is being added from local
