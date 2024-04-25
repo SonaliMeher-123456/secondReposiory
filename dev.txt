@@ -1,4 +1,4 @@
 dev file
 time 9.00pm
 01/03/1993
-this line added from remote for accept incoming change
+this line added from remote for accept both changes
