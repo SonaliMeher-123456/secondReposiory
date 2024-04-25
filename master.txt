@@ -1,2 +1,6 @@
 this is master branch
+<<<<<<< HEAD
 this line is from local master
+=======
+update master from remote
+>>>>>>> c88169008e01e049d40d60ed119be2e5b78b4160
